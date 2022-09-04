@@ -1,6 +1,6 @@
 import express from "express"
 import dotenv from "dotenv"
-const app = ex
+const app = express()
 dotenv.config()
 
 app.listen(8800, ()=>{
